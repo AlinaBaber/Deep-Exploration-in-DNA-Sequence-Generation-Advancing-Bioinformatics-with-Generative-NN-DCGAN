@@ -5,6 +5,6 @@ The DEN framework within BioSeqGen maximizes sequence diversity through activati
 From a business perspective, BioSeqGen presents a significant opportunity for pharmaceutical companies and biotech startups by accelerating the drug discovery process and reducing the time and cost associated with lab experiments. The socio-economic impact of this technology is profound, with the potential to fast-track the development of life-saving medications and sustainable biomaterials.
 Key highlights of BioSeqGen include its high efficiency, accuracy in sequence generation, and adaptability to various biological and computational research needs. Future revenue projections are promising, with the potential to capture a substantial market share in the biotechnology and pharmaceutical industries through licensing agreements, partnerships, and direct sales to research institutions.
 
-##Process
+## Process
 
 ![Prcoess](dnagen.png)
