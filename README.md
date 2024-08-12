@@ -6,4 +6,5 @@ From a business perspective, BioSeqGen presents a significant opportunity for ph
 Key highlights of BioSeqGen include its high efficiency, accuracy in sequence generation, and adaptability to various biological and computational research needs. Future revenue projections are promising, with the potential to capture a substantial market share in the biotechnology and pharmaceutical industries through licensing agreements, partnerships, and direct sales to research institutions.
 
 ##Process
+
 ![Prcoess](dnagen.png)
