@@ -1,4 +1,4 @@
-# Deep-DNA-Exploration-in-Sequence-Generation-Advancing-Bioinformatics-with-Generative-Neural-Networks
+# Deep-Exploration-in-DNA-Sequence-Generation-Advancing-Bioinformatics-with-Generative-Neural-Networks
 ## Overview
 BioSeqGen is a groundbreaking technology developed under the "Deep Exploration in Sequence Generation" project. It leverages Deep Exploration Networks (DENs) to generate DNA, RNA, and protein sequences with unparalleled diversity and biological relevance. The technology operates at the intersection of advanced machine learning, bioinformatics, and synthetic biology, offering a novel solution for drug discovery, genetic research, and biomaterials development.
 The DEN framework within BioSeqGen maximizes sequence diversity through activation-maximizing neural networks and implements a similarity penalty to ensure the uniqueness of each sequence. Incorporating DCGAN, BioSeqGen estimates sequence likelihood with high confidence, predictive model to identify target, making it a powerful tool for researchers and industry professionals alike.
