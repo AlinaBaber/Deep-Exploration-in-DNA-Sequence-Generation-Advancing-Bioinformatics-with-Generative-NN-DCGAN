@@ -12,9 +12,6 @@ BioSeqGen operates at the intersection of advanced machine learning, bioinformat
 
 BioSeqGen is aimed at accelerating drug discovery and genetic research, making it a vital tool for pharmaceutical companies and biotech startups.
 
-## Process
-
-![Prcoess](dnagen.png)
 
 ## Features
 
